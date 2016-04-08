@@ -1,3 +1,3 @@
 # ATLAS software installation
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is the book to be used for the installation of ATLAS software into CVMFS and GRID sites
